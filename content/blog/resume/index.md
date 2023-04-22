@@ -1,7 +1,7 @@
 ---
-title: My Resume
+title: Nguyen Thai Hoa's Resume
 date: "2023-04-22T22:40:32.169Z"
-description: My up to date resume.
+description: My up to date resume is here.
 ---
 
 ## Overview
@@ -58,7 +58,6 @@ I am capable of working independently or as a leader of small or medium-sized te
     - Maintained and upgraded a reusable mini-app that provides login experiences for multiple applications at NAB.
     - Did multiple inernal presentations about team's products.
 
-
 #### Digital Identity & Access - Senior Engineer / February 2020 to February 2021
 
 - Participated in technical design to make sure the relevant stakeholders aligned with the solution.
@@ -70,7 +69,6 @@ I am capable of working independently or as a leader of small or medium-sized te
     - Took charge of a reusable mini-application that delivers seamless login experiences across multiple applications.
     - Designed, developed, and implemented a CI pipeline for a JavaScript library that simplifies Single Sign-On integration for applications.
     - Contributed to team's showcases.
-
 
 ### Trusting Social
 
@@ -91,7 +89,6 @@ I am capable of working independently or as a leader of small or medium-sized te
 - Worked with product managers to identify and prioritize development tasks.
 - Developed, tested and maintained web applications using ReactJs, Redux and other front-end technologies.
 - Be a part of transition team to migrate legacy Lazada tech stack to Alibaba stack.
-
 - Technologies used: ReactJs, Weex, Rax
 
 #### Senior Engineer / 2014 to 2018
