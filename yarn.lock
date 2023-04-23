@@ -6970,6 +6970,11 @@ lodash@^4.17.10, lodash@^4.17.15, lodash@^4.17.19, lodash@^4.17.20, lodash@^4.17
   resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.21.tgz#679591c564c3bffaae8454cf0b3df370c3d6911c"
   integrity sha512-v2kDEe57lecTulaDIuNTPy3Ry4gLGJ6Z1O3vE1krgXZNrsQ+LFTGHVxVjcXPs17LhbZVGedAJv8XZ1tvj5FvSg==
 
+logrocket@^4.0.0:
+  version "4.0.0"
+  resolved "https://registry.yarnpkg.com/logrocket/-/logrocket-4.0.0.tgz#99e2bc6f7269e01467a1f0a4f85de97dff8192bf"
+  integrity sha512-GZmn6zZPV+YpuLHsnASYmM5tqCmbDnq0Xdh+jPtP2YGScXvUfiapILV0QuclMA5HEf+ZntcwhYFg0iiwxyTz5A==
+
 longest-streak@^2.0.0:
   version "2.0.4"
   resolved "https://registry.yarnpkg.com/longest-streak/-/longest-streak-2.0.4.tgz#b8599957da5b5dab64dee3fe316fa774597d90e4"
