@@ -14,6 +14,7 @@ I am capable of working independently or as a leader of small or medium-sized te
 
 - Email: thaihoa311@gmail.com
 - LinkedIn: https://www.linkedin.com/in/hoa-thai-nguyen-22949611b/
+- Preferred working mode: Hybrid, Remote
 
 ### Working experiences
 
