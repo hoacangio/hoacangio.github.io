@@ -13,8 +13,6 @@ I am capable of working independently or as a leader of small or medium-sized te
 ## Personal information
 
 - Email: thaihoa311@gmail.com
-- Mobile: (84) 938500311
-- Address: 334 Binh Phuoc, Binh Khanh, Can Gio, Ho Chi Minh City
 - LinkedIn: https://www.linkedin.com/in/hoa-thai-nguyen-22949611b/
 
 ## Working experiences
@@ -38,7 +36,7 @@ I am capable of working independently or as a leader of small or medium-sized te
     - In charge of recruiment for the team on both sides: HCMC and Melbourne.
 - Technologies used: ReactJs, React Native, TypeScript, AWS (ECS), Jenkins, NodeJs, GraphQL, Docker, Terraform
 - Achievements:
-    - Maintained and developed a micro-frontend application for authentication, which is one of the most re-used micro-frontend app at NAB with more than 10 consumers.
+    - Maintained and developed a micro-frontend application for authentication, which has become one of the most widely-used micro-frontend apps at NAB, having been utilized by more than 10 different applications.
     - Led the team to aqquire knowledge on React Native and succesfully built one of the first React Native mini-app.
     - All micro-frontend apps have CI/CD pipelines set up.
     - Contributed to the core front-end library of NAB.
@@ -54,7 +52,7 @@ I am capable of working independently or as a leader of small or medium-sized te
 - Contributed in CI/CD pipeline configuration.
 - Technologies used: ReactJs, TypeScript, AWS ECS, Jenkins, NodeJs, GraphQL, Docker, Terraform
 - Achievements:
-    - Successfully delivered user Device Management mini-app: an employee facing mini-app that helps NAB banker manages and supports customers authentication details.
+    - Successfully delivered an employee facing mini-app that helps NAB banker manages and supports customers authentication details.
     - Maintained and upgraded a reusable mini-app that provides login experiences for multiple applications at NAB.
     - Did multiple inernal presentations about team's products.
 
@@ -78,17 +76,21 @@ I am capable of working independently or as a leader of small or medium-sized te
 - Collaborated with Back-end and QA teams to ensure high quality, efficient and reliable web applications.
 - Responsible for designing, estimating front-end components.
 - Collaborate with DevOps to deploy the Dockerized front-end app to Google Cloud.
-- Technologies: ReactJs, Docker, TypeScript, NodeJs
+- Technologies: ReactJs, Docker, TypeScript, NodeJs, JAM stack
+- Achievements:
+    - Delivered a single-page application that enables users to perform AI-based operations, such as facial recognition, text extraction, and face comparison.
+    - Successfully developed the company's website.
+    - Created a reusable solution for the admin portal.
 
 ### Lazada Tech Hub Vietnam
 
 #### Manager / 2018 to 2019
 
-- Collaborated with product managers to align development objectives with business goals.
+- Aligned development objectives with business goals in collaboration with product managers.
 - Conducted code reviews, mentored junior developers and ensured adherence to coding standards.
 - Worked with product managers to identify and prioritize development tasks.
-- Developed, tested and maintained web applications using ReactJs, Redux and other front-end technologies.
-- Be a part of transition team to migrate legacy Lazada tech stack to Alibaba stack.
+- Utilized Alibaba's front-end technologies to develop, test, and maintain web applications.
+- Contributed as a member of the transition team in migrating the legacy Lazada tech stack to the Alibaba stack.
 - Technologies used: ReactJs, Weex, Rax
 
 #### Senior Engineer / 2014 to 2018
@@ -101,8 +103,11 @@ I am capable of working independently or as a leader of small or medium-sized te
 
 #### Junior Developer / 2011 to 2014
 
-- Developed static HTML\CSS\JavaScript for company's clients.
-- Developed front-end application using BackboneJs library.
+- Worked collaboratively with senior developers to implement front-end designs using HTML, CSS, and JavaScript technologies.
+- Assisted in the development of client websites, including creating responsive layouts and optimizing page load times.
+- Maintained and updated existing web applications to ensure compatibility with modern web browsers.
+- Demonstrated proficiency in jQuery and AJAX for dynamic and interactive front-end functionalities.
+- Recognized for exceptional problem-solving skills and ability to quickly learn new technologies, including HTML5, CSS3 and BackboneJs library.
 
 ## Skills
 
