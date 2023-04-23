@@ -6,7 +6,7 @@ description: My up to date resume is here.
 
 ### Overview
 
-My name is Hoa, and I have extensive engineering experience in the software industry. I have a T-shaped knowledge across various fields, and my primary expertise is in front-end development, with a focus on React Js and React Native. I also possess secondary expertise in back-end development (NodeJs and GraphQL) and Cloud (AWS). In April 2023, I obtained AWS Cloud Practitioner certification, which is valid until 2026.
+My name is Hoa, and I have extensive engineering experience in the software industry. I have a T-shaped knowledge across various fields, and my primary expertise is in front-end development, with a focus on React Js and React Native. I also possess secondary expertise in back-end development (NodeJs and GraphQL) and Cloud (AWS).
 
 I am capable of working independently or as a leader of small or medium-sized teams. I currently reside in Ho Chi Minh City with my family, which includes my two daughters.
 
@@ -112,12 +112,17 @@ I am capable of working independently or as a leader of small or medium-sized te
 
 ### Skills
 
-- Front-end development: TypeScript, ReactJs, React Native, CSS
-- Back-end development: NodeJs, GraphQL, Java
+- Front-end development: TypeScript, ReactJs, React Native, CSS, Styled Components
+- Back-end development: ExpressJs, NodeJs, GraphQL, Java
 - Cloud: AWS, Terraform
 - Soft-skills: leadership, presentation, documentation, coaching
 
-### Education
+### Education & Certifications
+
+#### AWS Cloud Practitioner certification
+
+Valid until 2026
 
 #### Ho Chi Minh City University of Science
+
 Bachelor degree of Information Technology / 2008 - 2011
