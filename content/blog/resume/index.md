@@ -120,7 +120,3 @@ I am capable of working independently or as a leader of small or medium-sized te
 
 ### Ho Chi Minh City University of Science
 Bachelor degree of Information Technology / 2008 - 2011
-
-## Conclusion
-
-Overall, my experience in the software industry has helped me develop expertise in various technologies, as well as leadership and soft skills. My ability to work well in a team and as an individual contributor, along with my focus on delivering high-quality products, make me an asset to any organization.
