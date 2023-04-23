@@ -42,7 +42,7 @@ I am capable of working independently or as a leader of small or medium-sized te
     - All micro-frontend apps have CI/CD pipelines set up.
     - Contributed to the core front-end library of NAB.
     - Led the team to do a presentation to NAB Group CEO.
-    - Did 1 public presentation "Micro-frontend and how we use it at NAB" for the company.
+    - Did 1 public presentation "Micro-frontend and how we use it at NAB" for the company. The presentation was live-broadcasted on Facebook: https://www.facebook.com/NABVietnam/videos/5447032168651073.
 
 ##### Digital Identity & Access - Lead Engineer & Scrum Master / February 2021 to February 2022
 
