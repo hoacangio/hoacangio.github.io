@@ -4,22 +4,22 @@ date: "2023-04-22T22:40:32.169Z"
 description: My up to date resume is here.
 ---
 
-## Overview
+### Overview
 
 My name is Hoa, and I have extensive engineering experience in the software industry. I have a T-shaped knowledge across various fields, and my primary expertise is in front-end development, with a focus on React Js and React Native. I also possess secondary expertise in back-end development (NodeJs and GraphQL) and Cloud (AWS). In April 2023, I obtained AWS Cloud Practitioner certification, which is valid until 2026.
 
 I am capable of working independently or as a leader of small or medium-sized teams. I currently reside in Ho Chi Minh City with my family, which includes my two daughters.
 
-## Personal information
+### Personal information
 
 - Email: thaihoa311@gmail.com
 - LinkedIn: https://www.linkedin.com/in/hoa-thai-nguyen-22949611b/
 
-## Working experiences
+### Working experiences
 
-### National Australia Bank - Innovation Centre of Vietnam (NICV)
+#### National Australia Bank - Innovation Centre of Vietnam (NICV)
 
-#### Digital Identity & Access - Engineer Manager / February 2022 until now
+##### Digital Identity & Access - Engineer Manager / February 2022 until now
 
 - Led a cross functional (Frontend and Quality Engineers) and locations (HCMC and Melbourne) team.
 - Responsible for team's delivery plan and ensure the team were clear about the plan.
@@ -43,7 +43,7 @@ I am capable of working independently or as a leader of small or medium-sized te
     - Led the team to do a presentation to NAB Group CEO.
     - Did 1 public presentation "Micro-frontend and how we use it at NAB" for the company.
 
-#### Digital Identity & Access - Lead Engineer & Scrum Master / February 2021 to February 2022
+##### Digital Identity & Access - Lead Engineer & Scrum Master / February 2021 to February 2022
 
 - Participated in technical design to make sure the relevant stakeholders aligned with the solution.
 - Spent 80% time for coding and code review.
@@ -56,7 +56,7 @@ I am capable of working independently or as a leader of small or medium-sized te
     - Maintained and upgraded a reusable mini-app that provides login experiences for multiple applications at NAB.
     - Did multiple inernal presentations about team's products.
 
-#### Digital Identity & Access - Senior Engineer / February 2020 to February 2021
+##### Digital Identity & Access - Senior Engineer / February 2020 to February 2021
 
 - Participated in technical design to make sure the relevant stakeholders aligned with the solution.
 - Spent most of time for coding and code review.
@@ -68,9 +68,9 @@ I am capable of working independently or as a leader of small or medium-sized te
     - Designed, developed, and implemented a CI pipeline for a JavaScript library that simplifies Single Sign-On integration for applications.
     - Contributed to team's showcases.
 
-### Trusting Social
+#### Trusting Social
 
-#### Senior engineer / June 2019 to Feb 2020
+##### Senior engineer / June 2019 to Feb 2020
 
 - Participated in coding and code review.
 - Collaborated with Back-end and QA teams to ensure high quality, efficient and reliable web applications.
@@ -82,9 +82,9 @@ I am capable of working independently or as a leader of small or medium-sized te
     - Successfully developed the company's website.
     - Created a reusable solution for the admin portal.
 
-### Lazada Tech Hub Vietnam
+#### Lazada Tech Hub Vietnam
 
-#### Manager / 2018 to 2019
+##### Manager / 2018 to 2019
 
 - Aligned development objectives with business goals in collaboration with product managers.
 - Conducted code reviews, mentored junior developers and ensured adherence to coding standards.
@@ -93,15 +93,15 @@ I am capable of working independently or as a leader of small or medium-sized te
 - Contributed as a member of the transition team in migrating the legacy Lazada tech stack to the Alibaba stack.
 - Technologies used: ReactJs, Weex, Rax
 
-#### Senior Engineer / 2014 to 2018
+##### Senior Engineer / 2014 to 2018
 
 - Developed and maintained the company's e-commerce platform using ReactJs and Redux.
 - Collaborated with Back-end and QA teams to ensure high quality, efficient and reliable web applications.
 - Conducted code reviews, provided technical guidance to junior developers and ensured compliance with coding standards.
 
-### Pyramid Consulting
+#### Pyramid Consulting
 
-#### Junior Developer / 2011 to 2014
+##### Junior Developer / 2011 to 2014
 
 - Worked collaboratively with senior developers to implement front-end designs using HTML, CSS, and JavaScript technologies.
 - Assisted in the development of client websites, including creating responsive layouts and optimizing page load times.
@@ -109,14 +109,14 @@ I am capable of working independently or as a leader of small or medium-sized te
 - Demonstrated proficiency in jQuery and AJAX for dynamic and interactive front-end functionalities.
 - Recognized for exceptional problem-solving skills and ability to quickly learn new technologies, including HTML5, CSS3 and BackboneJs library.
 
-## Skills
+### Skills
 
 - Front-end development: TypeScript, ReactJs, React Native, CSS
 - Back-end development: NodeJs, GraphQL, Java
 - Cloud: AWS, Terraform
 - Soft-skills: leadership, presentation, documentation, coaching
 
-## Education
+### Education
 
-### Ho Chi Minh City University of Science
+#### Ho Chi Minh City University of Science
 Bachelor degree of Information Technology / 2008 - 2011
